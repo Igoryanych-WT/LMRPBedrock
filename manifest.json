@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "ResourcePack for §2§lLife§a§lMine",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "LMRP Bedrock",
+    "uuid": "041990e5-341f-4594-a8c3-10bd245a9171",
+    "version": [
+      1,
+      5,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "ResourcePack for §2§lLife§a§lMine",
+      "type": "resources",
+      "uuid": "df7b5e1b-8432-4c8c-8de1-3778f6e7348a",
+      "version": [
+        1,
+        5,
+        0
+      ]
+    }
+  ]
+}
